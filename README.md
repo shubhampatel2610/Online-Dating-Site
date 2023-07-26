@@ -4,7 +4,7 @@
 
 ## A simple ui of online dating site using Html, CSS and Bootstrap framework.
 
-## Check its deployment on GitHub page
+## Check its deployment on Netlify and GitHub page
 
 ## Home page section
 ![homepage](https://github.com/shubhampatel2610/Online-Dating-Site/assets/105007678/56c5b7da-ec01-4905-a3fa-c4c71ff9a159)
